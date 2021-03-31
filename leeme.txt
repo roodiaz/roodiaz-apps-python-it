@@ -1,0 +1,11 @@
+Para el Ejemplo 1 hay que instalar Requests, pandas y watchdog (esto último solo para el observer.py).
+
+Ejecuten el siguiente comando en la terminal (requiere Python instalado):
+
+python -m pip install Requests pandas watchdog
+
+Para el Ejemplo 2 bájense web2py desde web2py.com y sigan los pasos de la grabación del seminario. Cuando abren el web2py.py, elijan como contraseña 1234. Luego de crear la aplicación, peguen (y reemplacen) el archivo default.py en web2py/applications/gestoralumnos/default.py.
+
+Para un tutorial sobre web2py véase https://recursospython.com/guias-y-manuales/introduccion-a-web2py/
+
+Para consultas sobre Python en general les dejo este foro: https://foro.recursospython.com/
